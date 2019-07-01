@@ -5,4 +5,4 @@ require (
 	github.com/onsi/gomega v1.5.0
 )
 
-module vaibhav-walke/golang-hubspot
+module github.com/vaibhav-walke/golang-hubspot
