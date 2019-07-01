@@ -25,7 +25,7 @@ package main
 import (
 	"log"
 
-	"github.com/vaibhav-walke/golang-hubspot"
+	"github.com/vaibhav-walke/golang-hubspot/hubspot"
 )
 
 func main() {
@@ -61,7 +61,7 @@ package main
 import (
 	"log"
 
-	"github.com/vaibhav-walke/golang-hubspot"
+	"github.com/vaibhav-walke/golang-hubspot/hubspot"
 )
 
 func main() {
