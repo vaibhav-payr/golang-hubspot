@@ -7,7 +7,7 @@
 
 ## Install
 ```
-go get github.com/bold-commerce/go-hubspot
+go get github.com/bold-commerce/go-hubspot/hubspot
 ```
 
 ## Unit Tests
