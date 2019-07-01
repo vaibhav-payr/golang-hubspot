@@ -1,11 +1,10 @@
-
-//This file contains example main functions for multiple operations
+/*
 package main
 
 import (
-	"log"
+"log"
 
-	"github.com/vaibhav-walke/golang-hubspot/hubspot"
+"github.com/vaibhav-walke/golang-hubspot/hubspot"
 )
 
 //function for send email
@@ -23,7 +22,7 @@ func main() {
 			{Name: "code", Value: "1234"},
 		},
 		ContactProperties:[]hubspot.MergeField{
-		{Name:"keyname", Value:"value"},
+			{Name:"keyname", Value:"value"},
 		},
 	}
 
@@ -70,3 +69,5 @@ func main() {
 		log.Fatalf("hubspot error: %s", err.Error())
 	}
 }
+
+*/
